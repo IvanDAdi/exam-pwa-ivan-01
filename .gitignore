@@ -39,6 +39,3 @@ package-lock.json
 /generated/config.json
 /generated/currency.json
 /generated/availableStores.json
-
-#project files
-/src
